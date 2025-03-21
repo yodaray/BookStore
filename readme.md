@@ -4,15 +4,15 @@
 
 Compilation
 
-`$ javac CSCI3170_Project/src/JDBC/JDBC.java`
+`$ javac BookStore/src/JDBC/JDBC.java`
 
 Execute the System
 
-`$ java -cp mysql-connector-java-5.1.30-bin.jar:. CSCI3170_Project/src/JDBC/JDBC.java `
+`$ java -cp mysql-connector-java-5.1.30-bin.jar:. BookStore/src/JDBC/JDBC.java `
 
 Example Data Files can be found from
 
-`CSCI3170_project/CSCI3170_Project/bin/connection/`
+`BookStore/BookStore/bin/connection/`
 
 Prevention of errors (cannot compile)
 
