@@ -1,3 +1,3 @@
-module CSCI3170_Project {
+module BookStore {
 	requires java.sql;
 }
