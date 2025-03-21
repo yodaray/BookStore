@@ -1,0 +1,15 @@
+0-3064-0615-2,The Art of Computer Programming,Donald Knuth,40,0
+1-8918-3085-0,Refactoring: Improving the Design of Existing Code,Martin Fowler,50,0
+0-3211-4653-0,The C Programming Language,Brian Kernighan,30,6
+0-5960-0873-2,Programming Perl,Jon Orwant,45,4
+0-2016-1586-9,The Elements of Style,William Strunk,10,8
+0-5965-2717-8,Learning Python,Mark Lutz,35,3
+0-3217-8184-7,Effective Java,Joshua Bloch,55,2
+0-7356-2052-9,Code Complete,Steve McConnell,60,7
+0-1323-5089-2,Clean Code,Robert Martin,45,0
+0-4711-1709-9,The Design of Everyday Things,Don Norman,25,10
+0-5961-0046-9,Learning SQL,Alan Beaulieu,40,2
+0-2019-2488-8,Design Patterns,Erich Gamma,50,0
+0-1311-0362-8,Agile Software Development,Alistair Cockburn,35,1
+0-5960-0572-4,Head First Design Patterns,Eric Freeman,45,0
+0-1323-5088-2,Clean Architecture,Robert Martin,55,2
